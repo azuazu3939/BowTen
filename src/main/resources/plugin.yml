@@ -1,0 +1,4 @@
+name: BowTen
+version: '${project.version}'
+main: mclove32.bowten.BowTen
+api-version: '1.15'
